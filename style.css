@@ -1,0 +1,24 @@
+.gridContainerDiv {
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.gridContainerDiv2 {
+    display: flex;
+    /* flex-direction: column; */
+}
+
+/* .gridColumns {
+    display: flex;
+    flex-direction: column;
+} */
+
+/* .gridRows {
+    display: flex;
+    flex-direction: row;
+} */
+
+/* .gridContainerDiv {
+    display: flex;
+    flex-direction: column;
+}  */
