@@ -1,11 +1,19 @@
+body {
+    display: flex;              /* This might be unnecessary code */
+    justify-content: center;
+}
+
 .gridContainerDiv {
     display: flex;
     /* flex-direction: column; */
 }
 
 .gridContainerDiv2 {
+    max-width: 400px;
+    height: 400px;
     display: flex;
-    /* flex-direction: column; */
+    /* justify-content: center; */
+    flex: 1;
 }
 
 /* .gridColumns {
