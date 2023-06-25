@@ -1,32 +1,12 @@
 body {
-    display: flex;              /* This might be unnecessary code */
+    display: flex;
     justify-content: center;
 }
 
 .gridContainerDiv {
-    display: flex;
-    /* flex-direction: column; */
-}
-
-.gridContainerDiv2 {
     max-width: 400px;
     height: 400px;
     display: flex;
-    /* justify-content: center; */
     flex: 1;
+    border: 1px solid;
 }
-
-/* .gridColumns {
-    display: flex;
-    flex-direction: column;
-} */
-
-/* .gridRows {
-    display: flex;
-    flex-direction: row;
-} */
-
-/* .gridContainerDiv {
-    display: flex;
-    flex-direction: column;
-}  */
